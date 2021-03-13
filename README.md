@@ -48,7 +48,19 @@ You still may find something new or useful.
 
 ## Learning hints
 
-ДОБАВИТЬ ПРО ИНЖИНИРИНГ ПАРАМЕТРОВ.
+We tried to add additional features to gain better performance:
+
+* Culture and culture group codes of previous years
+* Some farmers use culture rotation strategies for their fields, so
+  * Rotation length
+  * Encoded rotation pattern (for example: 'aaaa', 'abab', 'abca', 'aabb'...)
+* Depending on the weather it may be more reasonable to grow one culture or another, so
+  * Hardiness zone of field
+  * Köppen climate class
+  * First frost index
+* It may be possible that planting crops strategy of one farmer is depended in some way by it's neighbor's strategies, so we can try to add information about 4 nearest neighbors.
+* The variety of cultures in region
+
 
 ## Extras
 
@@ -59,6 +71,8 @@ You still may find something new or useful.
 * [Nomenclature naming (2018 year)](https://www1.telepac.agriculture.gouv.fr/telepac/pdf/tas/2018/Dossier-PAC-2018_notice_cultures-precisions.pdf)
 * [Nomenclature naming (2019 year)](https://www.telepac.agriculture.gouv.fr/telepac/pdf/tas/2019/Dossier-PAC-2019_notice_cultures-precisions.pdf)
 * [Nomenclature naming (2020 year)](https://www3.telepac.agriculture.gouv.fr/telepac/pdf/tas/2020/Dossier-PAC-2020_notice_cultures-precisions.pdf)
+* [Description of rules for using nomenclature](https://www.essonne.gouv.fr/Politiques-publiques/Agriculture-et-foret/Agriculture/Les-Aides-pour-l-Agriculture/PAC-Les-Aides-a-la-production/La-declaration-PAC/La-declaration-PAC-2020)
+* [Weather maps](https://www.plantmaps.com/)
    
 ## What's next?
 
