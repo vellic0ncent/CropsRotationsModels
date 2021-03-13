@@ -52,7 +52,13 @@ You still may find something new or useful.
 
 ## Extras
 
-ДОБАВИТЬ ССЫЛКИ НА ИСТОЧНИКИ И СТАТЬИ.
+* [Data source](https://www.data.gouv.fr/en/datasets/registre-parcellaire-graphique-rpg-contours-des-parcelles-et-ilots-culturaux-et-leur-groupe-de-cultures-majoritaire/#_)
+* [Nomenclature naming (2015 year)](https://www3.telepac.agriculture.gouv.fr/telepac/pdf/tas/2015/Dossier-PAC-2015_notice_cultures-precisions.pdf)
+* [Nomenclature naming (2016 year)](https://www3.telepac.agriculture.gouv.fr/telepac/pdf/tas/2016/Dossier-PAC-2016_notice_cultures-precisions.pdf)
+* [Nomenclature naming (2017 year)](https://www1.telepac.agriculture.gouv.fr/telepac/pdf/tas/2017/Dossier-PAC-2017_notice_cultures-precisions.pdf)
+* [Nomenclature naming (2018 year)](https://www1.telepac.agriculture.gouv.fr/telepac/pdf/tas/2018/Dossier-PAC-2018_notice_cultures-precisions.pdf)
+* [Nomenclature naming (2019 year)](https://www.telepac.agriculture.gouv.fr/telepac/pdf/tas/2019/Dossier-PAC-2019_notice_cultures-precisions.pdf)
+* [Nomenclature naming (2020 year)](https://www3.telepac.agriculture.gouv.fr/telepac/pdf/tas/2020/Dossier-PAC-2020_notice_cultures-precisions.pdf)
    
 ## What's next?
 
