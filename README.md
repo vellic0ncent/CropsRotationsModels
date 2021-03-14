@@ -26,25 +26,7 @@ However, check the contents and extra materials we used
 before you decide to go deeper into the project results. 
 You still may find something new or useful.
 
-  |_ _ \ geojson  
-  |_ _ \ src  
-  |  |_ _ _ merge_data.py  
-  |  |_ _ _ preprocess_data.py  
-  |  |_ _ _ engineer_features.py  
-  |_ _ \ data  
-    |_ _ \ source  
-    |    |_ _ \ train  
-    |    |   |_ _ train_2015.csv  
-    |    |   |_ _ train_2016.csv  
-    |    |_ _ \ predict  
-    |        |_ _ test_2015.csv  
-    |        |_ _ test_2016.csv  
-    |_ _ \ interim  
-         |_ _ merged_data.csv  
-         |_ _ preprocessed_data.csv  
-         |_ _ featured_data.csv  
-|_ _ README.md  
-|_ _ cultures.csv  
+<img src="./repostruct.jpg" style="max-width: 40%; margin-left: auto; margin-right: auto;" />
 
 ## Learning hints
 
@@ -76,7 +58,7 @@ We tried to add additional features to gain better performance:
    
 ## What's next?
 
-ДОБАВИТЬ СПОСОБЫ УЛУЧШЕНИЯ И БИЗНЕС_ИДЕЮ МОДЕЛИ-ПРОЕКТА.
+In case we have data on efficiency the reliability and the ROI of project wil be increased manually.
 
 ---
 
